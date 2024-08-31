@@ -1,0 +1,1 @@
+GUI or graphical user interface is a type of computer interface that is navigated using graphical elements such as icons or buttons. Whereas CLI or command-line interface allows users to interact with a computer simply using lines of text. GUI is easier to learn and use but in the long run CLI has potential to be faster and more precise.
