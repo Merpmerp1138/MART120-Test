@@ -5,14 +5,6 @@ var playerX = 50;
 var playerY = areaHeight - 50;
 var playerDiameter = 50;
 
-var oneX = 0;
-var oneXB = 0;
-var oneY = 400;
-
-var twoX = 200;
-var twoXB = 800;
-var twoY = 200;
-
 var mousex = -20;
 var mousey = -20;
 
